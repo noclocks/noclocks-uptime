@@ -6,7 +6,6 @@ user-agent: noclocks
 sites:
   - name: Domain
     url: https://noclocks.dev
-    icon: https://noclocks.dev/favicon.ico
   - name: Website
     url: https://noclocks.dev
   - name: Online Store
