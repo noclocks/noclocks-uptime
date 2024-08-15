@@ -4,36 +4,40 @@
     "url": "https://noclocks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/noclocks.dev.ico",
     "slug": "domain",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 216,
     "timeDay": 216,
     "timeWeek": 216,
     "timeMonth": 216,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-15": 1
+    }
   },
   {
     "name": "Website",
     "url": "https://noclocks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/noclocks.dev.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 67,
     "timeDay": 67,
     "timeWeek": 67,
     "timeMonth": 67,
     "timeYear": 67,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-15": 0
+    }
   },
   {
     "name": "Online Store",
@@ -77,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.store.noclocks.dev.ico",
     "slug": "development-store-accounts",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 33
+      "2024-08-15": 145
     }
   },
   {
